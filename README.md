@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hola, Soy Cynthia 👋
+### Ingeniera en Física Médica y Data Scientist
 
+Hace algunos años decidí reinventarme e incursionar en Data. 
+Voy ampliando conocimientos, mis proyectos se encuentran aqui.
 <!--
 **cynauad/cynauad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
