@@ -8,19 +8,19 @@ Mis proyectos se encuentran aqui.
 # Algunos proyectos de los cursos que realicé
 
 ## Data Analytics
+<a href="https://github.com/cynauad/data-analytics"><img src="https://github.com/cynauad/cynauad/blob/main/img/DA.png" style="height: 60%; width:60%;"/></a>
 
-
-[![DA](https://img.shields.io/github/stars/cynauad/python-utn?label=Data Anlytics&style=social)](https://github.com/cynauad/python-utn)
+[![DA](https://img.shields.io/github/stars/cynauad/data-analytics?label=Data Anlytics&style=social)](https://github.com/cynauad/data-analytics)
 
 ## Data Science
+<a href="https://github.com/cynauad/data-science"><img src="https://github.com/cynauad/cynauad/blob/main/img/DS.png" style="height: 60%; width:60%;"/></a>
 
-
-[![DS](https://img.shields.io/github/stars/cynauad/python-utn?label=Data Science&style=social)](https://github.com/cynauad/python-utn)
+[![DS](https://img.shields.io/github/stars/cynauad/data-science?label=Data Science&style=social)](https://github.com/cynauad/data-science)
 
 ## Data Engineering
+<a href="https://github.com/cynauad/data-engineering"><img src="https://github.com/cynauad/cynauad/blob/main/img/DE.png" style="height: 60%; width:60%;"/></a>
 
-
-[![DE](https://img.shields.io/github/stars/cynauad/python-utn?label=Data Engineering&style=social)](https://github.com/cynauad/python-utn)
+[![DE](https://img.shields.io/github/stars/cynauad/data-engineering?label=Data Engineering&style=social)](https://github.com/cynauad/data-engineering)
 
 ## Diplomatura en Python
 
