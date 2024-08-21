@@ -7,27 +7,25 @@ Mis proyectos se encuentran aqui.
 
 ### Algunos proyectos de los cursos que realicé
 
-## Data Analytics
-<a href="https://github.com/cynauad/data-analytics"><img src="https://github.com/cynauad/cynauad/blob/main/img/DA.png" style="height: 60%; width:60%;"/></a>
+## Diplomatura en Python
+<a href="https://github.com/cynauad/python-utn"><img src="https://github.com/cynauad/cynauad/blob/main/img/python-utn.png" style="height: 60%; width:60%;"/></a>
 
-[![DA](https://img.shields.io/github/stars/cynauad/data-analytics?label=Data_Analytics&style=social)](https://github.com/cynauad/data-analytics)
-
-## Data Science
-<a href="https://github.com/cynauad/data-science"><img src="https://github.com/cynauad/cynauad/blob/main/img/DS.png" style="height: 60%; width:60%;"/></a>
-
-[![DS](https://img.shields.io/github/stars/cynauad/data-science?label=Data_Science&style=social)](https://github.com/cynauad/data-science)
+[![Python](https://img.shields.io/github/stars/cynauad/python-utn?label=Python&style=social)](https://github.com/cynauad/python-utn)
 
 ## Data Engineering
 <a href="https://github.com/cynauad/data-engineering"><img src="https://github.com/cynauad/cynauad/blob/main/img/DE.png" style="height: 60%; width:60%;"/></a>
 
 [![D_E](https://img.shields.io/github/stars/cynauad/data-engineering?label=Data_Engineering&style=social)](https://github.com/cynauad/data-engineering)
 
-## Diplomatura en Python
+## Data Science
+<a href="https://github.com/cynauad/data-science"><img src="https://github.com/cynauad/cynauad/blob/main/img/DS.png" style="height: 60%; width:60%;"/></a>
 
-<a href="https://github.com/cynauad/python-utn"><img src="https://github.com/cynauad/cynauad/blob/main/img/python-utn.png" style="height: 60%; width:60%;"/></a>
+[![DS](https://img.shields.io/github/stars/cynauad/data-science?label=Data_Science&style=social)](https://github.com/cynauad/data-science)
 
-[![Python](https://img.shields.io/github/stars/cynauad/python-utn?label=Python&style=social)](https://github.com/cynauad/python-utn)
+## Data Analytics
+<a href="https://github.com/cynauad/data-analytics"><img src="https://github.com/cynauad/cynauad/blob/main/img/DA.png" style="height: 60%; width:60%;"/></a>
 
+[![DA](https://img.shields.io/github/stars/cynauad/data-analytics?label=Data_Analytics&style=social)](https://github.com/cynauad/data-analytics)
 
 <!--
 **cynauad/cynauad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
