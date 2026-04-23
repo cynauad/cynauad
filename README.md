@@ -25,14 +25,14 @@ Después de más de 10 años trabajando en **Radioterapia**, decidí reinventarm
 
 #### ☁️ Databricks & Azure
 
-**[Databricks_Telco](https://github.com/cynauad/Databricks_Telco)**
-Análisis y procesamiento de datos de telecomunicaciones en Databricks con PySpark. ETL, transformaciones y visualizaciones sobre datos del sector telco.
+**[Databricks-movie-history](https://github.com/cynauad/Databrikcs-movie-history)**
+Procesamiento y análisis del historial de películas en Databricks. Exploración de datos con notebooks y PySpark.
 
 **[azure-datafactory-movie-history](https://github.com/cynauad/azure-datafactory-movie-history)**
 Pipeline de datos construido con Azure Data Factory para ingestar y transformar historial de películas. Orquestación de flujos cloud-native.
 
-**[Databricks-movie-history](https://github.com/cynauad/Databrikcs-movie-history)**
-Procesamiento y análisis del historial de películas en Databricks. Exploración de datos con notebooks y PySpark.
+**[Databricks_Telco](https://github.com/cynauad/Databricks_Telco)**
+Análisis y procesamiento de datos de telecomunicaciones en Databricks con PySpark. ETL, transformaciones y visualizaciones sobre datos del sector telco.
 
 ---
 
