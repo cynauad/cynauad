@@ -1,6 +1,6 @@
 ## Hola, soy Cynthia 👋
 
-### 🔬 Ingeniera en Física Médica → 📊 Data Scientist & Analyst
+### 🔬 Ingeniera en Física Médica → 📊 Data Engineer & Analyst
 
 Después de más de 10 años trabajando en **Radioterapia**, decidí reinventarme y volcarme al mundo de los datos. Hoy combino mi background científico con herramientas modernas de datos para transformar información en decisiones.
 
