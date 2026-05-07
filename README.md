@@ -23,9 +23,9 @@ Después de más de 10 años trabajando en **Radioterapia**, decidí reinventarm
 
 ### 🚀 Proyectos Destacados
 
-#### 🚀 Bootcamp iansaura.com
+#### 🎓 Bootcamp iansaura.com
 - [Proyecto 1 - ETL simple](https://github.com//cynauad/etl-simple)
-<!-- - [Proyecto 2 - JavaScript](https://github.com/tu-usuario/proyecto-2) -->
+- [Proyecto 2 - API pipeline](https://github.com/cynauad/api_pipeline)
   
 #### ☁️ Curso Databricks & Azure
 
